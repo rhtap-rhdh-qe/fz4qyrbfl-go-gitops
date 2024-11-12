@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fz4qyrbfl-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fz4qyrbfl-go
